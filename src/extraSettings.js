@@ -28,7 +28,7 @@ let fruitQTan = false;
 let fruitSlowDown = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://github.com/PCCCQ';
+let adLink = 'https://s3.ax1x.com/2021/01/31/yEnSYT.jpg';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成大科大';
